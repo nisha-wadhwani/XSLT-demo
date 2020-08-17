@@ -1,0 +1,19 @@
+<result>
+    <users>
+        <user>
+            <user-name>user 1</user-name>
+            <blood-group>A-</blood-group>
+            <id>4</id>
+            <col1>c1</col1>
+            <col2>c2</col2>
+            <col4>c4</col4>
+        </user>
+        <user>
+            <user-name>user 2</user-name>
+            <blood-group>B+</blood-group>
+            <id>3</id>
+            <col3>c3</col3>
+            <col4>c4</col4>
+        </user>
+    </users>
+</result>

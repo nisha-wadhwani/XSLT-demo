@@ -1,0 +1,6 @@
+User Name | Blood Group | Id | col1 | col2 | col3 | col4
+user 1    | A-          | 4  | c1   |      |      | 
+user 1    | A-          | 4  |      | c2   |      | 
+user 1    | A-          | 4  |      |      |      | c4
+user 2    | B+          | 3  |      |      | c3   | 
+user 2    | B+          | 3  |      |      |      | c4
